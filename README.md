@@ -14,7 +14,6 @@
 6. [Installation](#installation)
 7. [Quickstart](#quickstart)
 8. [Learning Resources](#learning-resources)
-9. [In This Repo](#in-this-repo)
 
 ## **What Is an OpenAI Agent SDK?**
 
